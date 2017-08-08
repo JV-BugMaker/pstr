@@ -1,0 +1,19 @@
+# comment - this is ignored file list
+
+# IDE project file
+/.idea
+/.project
+/.settings/
+nbproject/*
+/.idea/*
+*/.idea/
+*.swp
+
+# project config
+nuggets_new/.env
+
+/_docker/log/php5-fpm.log
+
+*.log
+messages
+syslog
