@@ -8,7 +8,7 @@ nbproject/*
 /.idea/*
 */.idea/
 *.swp
-
+/.idea/workspace.xml
 # project config
 nuggets_new/.env
 

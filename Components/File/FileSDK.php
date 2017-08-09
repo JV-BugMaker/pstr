@@ -6,3 +6,9 @@
  * Time: 22:38
  * Author: JV
  */
+namespace PSTR\Components\File;
+
+class FileSDK
+{
+
+}
